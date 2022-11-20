@@ -1,7 +1,6 @@
 body {
   font-family: "Lato", sans-serif;
   color: #fff;
-
   background-image: linear-gradient(to bottom, #8a1538, #fb8245 90%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -39,7 +38,6 @@ tbody {
   flex-wrap: wrap;
   justify-content: space-between;
   border: solid 1px #fff;
-  padding: px;
 }
 
 .table-components {
@@ -102,6 +100,16 @@ td {
 @media screen and (min-width: 300px) and (max-width: 792px) {
   * {
     overflow: hidden;
+  }
+
+  .table-structure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 0px;
   }
 
   .table-components {
