@@ -1,7 +1,7 @@
 const tableElements = [
   {
     participant: "Pedro",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
@@ -11,12 +11,12 @@ const tableElements = [
   },
   {
     participant: "Jorge",
-    points: 0,
+    points: 5,
     position: "#º",
   },
   {
     participant: "Guilherme",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
@@ -25,27 +25,27 @@ const tableElements = [
   },
   {
     participant: "Wegna",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
     participant: "Jonatas",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
     participant: "Beto",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
     participant: "Yago",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
     participant: "Gustavo",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
@@ -60,17 +60,17 @@ const tableElements = [
   },
   {
     participant: "Henrique",
-    points: 0,
+    points: 5,
     position: "#º",
   },
   {
     participant: "Marcelo",
-    points: 0,
+    points: 3,
     position: "#º",
   },
   {
     participant: "Danilo",
-    points: 0,
+    points: 3,
     position: "#º",
   },
 ];
