@@ -98,8 +98,11 @@ td {
 }
 
 @media screen and (min-width: 300px) and (max-width: 792px) {
-  * {
-    overflow: hidden;
+  body {
+    overflow: auto;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #fb8245;
   }
 
   .table-structure {
