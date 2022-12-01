@@ -1,76 +1,76 @@
 const tableElements = [
   {
     participant: "Beto",
-    points: 71,
+    points: 85,
     position: "#º",
   },
   {
     participant: "Danilo",
-    points: 61,
+    points: 70,
     position: "#º",
   },
   {
     participant: "Eduardo",
-    points: 46,
+    points: 55,
     position: "#º",
   },
   {
     participant: "Gabi",
-    points: 61,
+    points: 70,
     position: "#º",
   },
   {
     participant: "Gabriel",
-    points: 57,
+    points: 69,
   },
   {
     participant: "Guilherme",
-    points: 60,
+    points: 78,
     position: "#º",
   },
   {
     participant: "Gustavo",
-    points: 71,
+    points: 89,
     position: "#º",
   },
   {
     participant: "Henrique",
-    points: 79,
+    points: 98,
     position: "#º",
   },
   {
     participant: "Jonatas",
-    points: 80,
+    points: 94,
     position: "#º",
   },
   {
     participant: "Jorge",
-    points: 53,
+    points: 68,
     position: "#º",
   },
   {
     participant: "Marcelo",
-    points: 74,
+    points: 91,
     position: "#º",
   },
   {
     participant: "Mariana",
-    points: 59,
+    points: 82,
     position: "#º",
   },
   {
     participant: "Pedro",
-    points: 62,
+    points: 77,
     position: "#º",
   },
   {
     participant: "Wegna",
-    points: 83,
+    points: 101,
     position: "#º",
   },
   {
     participant: "Yago",
-    points: 60,
+    points: 77,
     position: "#º",
   },
 ];
